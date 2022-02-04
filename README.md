@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi! I'm Alexey 👋
+Я начинающий Python backend разработчик
 
-<!--
-**KuzenkovAG/KuzenkovAG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Стек - Python, Django, Postgres
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
--->
+![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
