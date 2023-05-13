@@ -3,14 +3,18 @@
 
 ## Skills and Experience 
 
-Skills: Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
+Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
 
-## My projects
-- [API yambd] - Сервис для оценки рейтинга произведений (групповой проект)
-- [Yatube project] - Сервис для общения [deploy]
-- [API for Yatube project] - API сервис для Yatube project
-- [Telegram bot] - Telegram бот. Работает с API telegram и API Yandex.
-- [Fitness tracker] - Модуль для фитнес трекера, расчитывающий калории
+## Projects
+#### Pet projects
+it's under developing...
+
+#### Yandex Practicum
+- [API yambd] - Сервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
+- [Yatube project] - Сервис для общения [deploy]. (публикация постов, комментариев к ним, подписка на авторов);
+- [API for Yatube project] - API сервис для Yatube project (API сервис - публикация постов, комментариев, подписка на авторов);
+- [Telegram bot] - Telegram бот. Работает с API telegram и API Yandex. (Проверка домашнего задания);
+- [Fitness tracker] - Модуль для фитнес трекера, расчитывающий калории.
 
 
 
