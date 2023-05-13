@@ -1,25 +1,24 @@
 ### Hi there 👋, my name is Alexey
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Python+Developer!&center=true&color=f75c7e&vCenter=true&pause=2000&size=32)](https://git.io/typing-svg)
 
 ## Skills and Experience 
 
 Skills: Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
 
 ## My projects
-- [API yambd] Сервис для оценки рейтинга произведений (групповой проект)
-- [Yatube project] Сервис для общения [deploy]
-- [API for Yatube project] API сервис для Yatube project
-- [Telegram bot] Telegram бот. Работает с API telegram и API Yandex.
-- [Fitness tracker] Модуль для фитнес трекера, расчитывающий калории
+- [API yambd] - Сервис для оценки рейтинга произведений (групповой проект)
+- [Yatube project] - Сервис для общения [deploy]
+- [API for Yatube project] - API сервис для Yatube project
+- [Telegram bot] - Telegram бот. Работает с API telegram и API Yandex.
+- [Fitness tracker] - Модуль для фитнес трекера, расчитывающий калории
 
 
 
 ## Stats  
-[![KuzenkovAG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuzenkovAG&count_private=false&show_icons=true&theme=solarized&hide=contribs,stars)](https://github.com/KuzenkovAG/github-readme-stats)
+[![KuzenkovAG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuzenkovAG&count_private=true&show_icons=true&theme=vue&hide=contribs,stars)](https://github.com/KuzenkovAG/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
-
 
    [API yambd]: <https://github.com/KuzenkovAG/api_yamdb>
    [Yatube project]: <https://github.com/KuzenkovAG/yatube_new_feature>
