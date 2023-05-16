@@ -7,7 +7,7 @@ Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
 
 ## Projects
 #### Pet projects
-it's under developing...
+- [hmom] - Онлайн web игра. (Выбор фракции, постройка зданий) [deploy2]
 
 #### Yandex Practicum
 - [API yambd] - Сервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
@@ -30,3 +30,6 @@ it's under developing...
    [Telegram bot]: <https://github.com/KuzenkovAG/telegram-bot-yandex>
    [Fitness tracker]: <https://github.com/KuzenkovAG/module-fitness-tracker>
    [deploy]: <https://alexey241390.pythonanywhere.com/>
+   [hmom]: <https://github.com/KuzenkovAG/hmom3> 
+   [deploy2]: <https://momonline.pythonanywhere.com/>
+   
