@@ -8,6 +8,7 @@ Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
 ## Projects
 #### Pet projects
 - [hmom] - Онлайн web игра. (Выбор фракции, постройка зданий) [deploy2]
+- [truck_service] - API сервис для отслеживания грузов. (Запуск через docker-compose)
 
 #### Yandex Practicum
 - [API yambd] - API cервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
@@ -32,4 +33,5 @@ Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
    [deploy]: <https://alexey241390.pythonanywhere.com/>
    [hmom]: <https://github.com/KuzenkovAG/hmom3> 
    [deploy2]: <https://momonline.pythonanywhere.com/>
+   [truck_service]: <https://github.com/KuzenkovAG/truck_service>
    
