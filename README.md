@@ -18,11 +18,6 @@ Python / Django / SQL / REST API / HTML / CSS / Docker / Linux
 - [Fitness tracker] - Модуль для фитнес трекера, расчитывающий калории.
 
 
-
-## Stats  
-[![KuzenkovAG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KuzenkovAG&count_private=true&show_icons=true&theme=vue&hide=contribs&cache_seconds=86400)](https://github.com/KuzenkovAG/github-readme-stats)
-
-
 ![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
 
    [API yambd]: <https://github.com/KuzenkovAG/api_yamdb>
