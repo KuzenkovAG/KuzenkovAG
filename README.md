@@ -20,15 +20,17 @@
 
 ## Projects
 #### Pet projects
-- [hmom] - Онлайн web игра. (Выбор фракции, постройка зданий) [deploy2]
-- [truck_service] - API сервис для отслеживания грузов. (Запуск через docker-compose)
+- [hmom] (Django) - Игра в жанре MMORPG. (Выбор фракции, постройка города) [deploy2] 
+- [truck_service] (DRF) - API сервис для отслеживания грузов (сервис для отображения ближайших грузов)
+- [test storage service] (DRF) - API сервис для хранения результатов тестов (создание/сохранение тестов)
 
-#### Yandex Practicum
-- [API yambd] - API cервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
-- [Yatube project] - Сервис для общения [deploy]. (публикация постов, комментариев к ним, подписка на авторов);
-- [API for Yatube project] - API сервис для Yatube project (API сервис - публикация постов, комментариев, подписка на авторов);
-- [Telegram bot] - Telegram бот. Работает с API telegram и API Yandex. (Проверка домашнего задания);
-- [Fitness tracker] - Модуль для фитнес трекера, расчитывающий калории.
+#### Yandex Practicum 
+- [Foodgram] (DRF) - Сервис для рецептов (просмотр/добавление рецептов, подписка на авторов, добавление рецептов в избранное);
+- [API yambd] (DRF) - API cервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
+- [Yatube project] (Django) - Сервис для общения [deploy]. (публикация постов, комментариев к ним, подписка на авторов);
+- [API for Yatube project] (DRF) - API сервис для Yatube project (API сервис - публикация постов, комментариев, подписка на авторов);
+- [Telegram bot] (Python) - Telegram бот. Работает с API telegram и API Yandex. (Проверка домашнего задания);
+- [Fitness tracker] (Python) - Модуль для фитнес трекера, расчитывающий калории.
 
 
 ![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
@@ -42,4 +44,5 @@
    [hmom]: <https://github.com/KuzenkovAG/hmom3> 
    [deploy2]: <https://momonline.pythonanywhere.com/>
    [truck_service]: <https://github.com/KuzenkovAG/truck_service>
-   
+   [Foodgram]: <https://github.com/KuzenkovAG/foodgram-project-react>
+   [test storage service]: <https://github.com/KuzenkovAG/iq_eq_tests>
