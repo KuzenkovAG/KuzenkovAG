@@ -22,7 +22,7 @@
 ## Projects
 #### Pet projects
 - [hmom] (Django) - Игра в жанре MMORPG. (Выбор фракции, постройка города) [deploy2]
-- [restauran menu] (FastAPI) - API сервис для меню ресторана (Просмотр/создание меню и блюд)
+- [restaurant menu] (FastAPI) - API сервис для меню ресторана (Просмотр/создание меню и блюд)
 - [truck service] (DRF) - API сервис для машин и грузов (добавление/просмотр/редактирование груза, редактирование машины, поиск грузов по расстоянию)
 - [tests storage service] (DRF) - API сервис для хранения результатов тестов (создание/сохранение тестов)
 
@@ -48,4 +48,4 @@
    [truck service]: <https://github.com/KuzenkovAG/truck_service>
    [Foodgram]: <https://github.com/KuzenkovAG/foodgram-project-react>
    [tests storage service]: <https://github.com/KuzenkovAG/iq_eq_tests>
-   [restauran menu]: <https://github.com/KuzenkovAG/restaurant_menu>
+   [restaurant menu]: <https://github.com/KuzenkovAG/restaurant_menu>
