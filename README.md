@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Python+Developer!&center=true&color=f75c7e&vCenter=true&pause=2000&size=32)](https://git.io/typing-svg)
 
 ## Skills and Experience 
+#### Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -20,16 +23,17 @@
 
 ## Projects
 #### Pet projects
-- [hmom] (Django) - Игра в жанре MMORPG. (Выбор фракции, постройка города) [deploy2] 
-- [truck_service] (DRF) - API сервис для отслеживания грузов (сервис для отображения ближайших грузов)
-- [test storage service] (DRF) - API сервис для хранения результатов тестов (создание/сохранение тестов)
+- [hmom] (Django) - Игра в жанре MMORPG. (Выбор фракции, постройка города) [deploy2]
+- [restauran menu] (FastAPI) - API сервис для меню ресторана (CRUD операции для меню и блюд)
+- [truck service] (DRF) - API сервис для машин и грузов (добавление/просмотр/редактирование груза, редактирование машины, поиск грузов по расстоянию)
+- [tests storage service] (DRF) - API сервис для хранения результатов тестов (создание/сохранение тестов)
 
 #### Yandex Practicum 
-- [Foodgram] (DRF) - Сервис для рецептов (просмотр/добавление рецептов, подписка на авторов, добавление рецептов в избранное);
-- [API yambd] (DRF) - API cервис для оценки рейтинга произведений (групповой проект). (Добавление произведений по категориям, оценка и учет их рейтинга);
-- [Yatube project] (Django) - Сервис для общения [deploy]. (публикация постов, комментариев к ним, подписка на авторов);
-- [API for Yatube project] (DRF) - API сервис для Yatube project (API сервис - публикация постов, комментариев, подписка на авторов);
-- [Telegram bot] (Python) - Telegram бот. Работает с API telegram и API Yandex. (Проверка домашнего задания);
+- [Foodgram] (DRF, REACT) - SPA приложение для рецептов (просмотр/добавление рецептов, подписка на авторов, добавление рецептов в избранное);
+- [API yambd] (DRF) - API cервис для произведений (групповой проект). (Добавление произведений, их оценка, просмотр рейтинга);
+- [Yatube project] (Django) - Социальная сеть [deploy]. (публикация постов, комментариев к ним, подписка на авторов);
+- [API for Yatube project] (DRF) - API сервис для Yatube project (публикация постов, комментариев, подписка на авторов);
+- [Telegram bot] (Python) - Telegram бот. Работает с API telegram и API Yandex;
 - [Fitness tracker] (Python) - Модуль для фитнес трекера, расчитывающий калории.
 
 
@@ -43,6 +47,7 @@
    [deploy]: <https://alexey241390.pythonanywhere.com/>
    [hmom]: <https://github.com/KuzenkovAG/hmom3> 
    [deploy2]: <https://momonline.pythonanywhere.com/>
-   [truck_service]: <https://github.com/KuzenkovAG/truck_service>
+   [truck service]: <https://github.com/KuzenkovAG/truck_service>
    [Foodgram]: <https://github.com/KuzenkovAG/foodgram-project-react>
-   [test storage service]: <https://github.com/KuzenkovAG/iq_eq_tests>
+   [tests storage service]: <https://github.com/KuzenkovAG/iq_eq_tests>
+   [restauran menu]: <https://github.com/KuzenkovAG/restaurant_menu>
