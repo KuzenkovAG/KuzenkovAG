@@ -22,7 +22,7 @@
 
 
 ## Interest Projects
-- [hmom] (Django, SQLite) - Игра в жанре MMORPG. (Выбор фракции, постройка города) [deploy]
+- [hmom] (Django, SQLite) - Игра в жанре MMORPG. (Выбор фракции, постройка города)
 
 ![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
 
