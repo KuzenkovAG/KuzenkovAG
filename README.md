@@ -1,7 +1,11 @@
 ### Hi! I'm Alexey 👋
-Я Python backend разработчик
+Backend developer with professional experience.
 
-Стек - Python, FastApi, SqlAlchemy, PostgreSQL, Postgis, Kafka, Redis, ClickHouse
-
+#### Стек:
+- **Programming Language**: Python
+- **Frameworks**: FastApi, SqlAlchemy
+- **Databases**: PostgreSQL, Kafka, Redis, ClickHouse, S3, TimescaleDB, Aerospike
+- **APIs & Protocols**: REST, gRPC, SocketIO, WebSocket
+- **API Gateways**: Nginx, KrakenD
 
 ![](https://komarev.com/ghpvc/?username=KuzenkovAG&color=green&style=for-the-badge)
