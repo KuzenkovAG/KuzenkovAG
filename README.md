@@ -4,7 +4,7 @@ Backend developer with professional experience.
 #### Стек:
 - **Programming Language**: Python
 - **Frameworks**: FastApi, SqlAlchemy
-- **Databases**: PostgreSQL, Kafka, Redis, ClickHouse, S3, TimescaleDB, Aerospike
+- **Databases**: PostgreSQL, Postgis, Kafka, Redis, ClickHouse, S3, TimescaleDB, Aerospike
 - **APIs & Protocols**: REST, gRPC, SocketIO, WebSocket
 - **API Gateways**: Nginx, KrakenD
 
